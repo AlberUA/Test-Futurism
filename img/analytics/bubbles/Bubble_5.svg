@@ -1,0 +1,33 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_dii_478_442)">
+<path d="M140 106C140 122.569 126.569 136 110 136C93.4315 136 80 122.569 80 106C80 89.4315 93.4315 76 110 76C126.569 76 140 89.4315 140 106Z" fill="#030092"/>
+<path d="M140 106C140 122.569 126.569 136 110 136C93.4315 136 80 122.569 80 106C80 89.4315 93.4315 76 110 76C126.569 76 140 89.4315 140 106Z" fill="url(#paint0_radial_478_442)"/>
+</g>
+<defs>
+<filter id="filter0_dii_478_442" x="0" y="0" width="220" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="40"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133167 0 0 0 0 0.171028 0 0 0 0 0.5875 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_478_442"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_478_442" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="10" dy="16"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.334167 0 0 0 0 0.0208333 0 0 0 0 1 0 0 0 0.95 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_478_442"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.58 0"/>
+<feBlend mode="normal" in2="effect2_innerShadow_478_442" result="effect3_innerShadow_478_442"/>
+</filter>
+<radialGradient id="paint0_radial_478_442" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(122.24 94.72) rotate(110.973) scale(61.687)">
+<stop stop-color="#3244E8"/>
+<stop offset="1" stop-color="#000210" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
